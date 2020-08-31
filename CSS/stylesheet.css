@@ -1,0 +1,60 @@
+
+
+
+nav{
+    
+    width: 100%;
+    height: auto;
+    background:white;
+    border-style: solid;
+    position: relative;
+  }
+
+.menu_txt{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 50px;
+    padding: 10px;
+    margin-left: 250px;
+}
+
+.aboutme_content{
+  width: 100%;
+  height: auto;
+  position: absolute;
+  border-style: solid;
+  background: white;
+  border-color: black;
+  margin-top: 10px;
+  
+}
+
+.heading{
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.about_content{
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.skills{
+  width: 100%;
+  height: auto;
+  position: absolute;
+  border-style: solid;
+  background: white;
+  border-color: black;
+  margin-top: 145px;
+}
+
+.skills_header{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  font-size: 25px;;
+}
+
+.html_img{
+margin: 10px;
+}
